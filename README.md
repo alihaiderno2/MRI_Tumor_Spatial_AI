@@ -1,4 +1,4 @@
-#  AI-Driven Neuro-Oncology Segmentation & Mixed Reality Surgical Spatial Viewer
+# 🧠 AI-Driven Neuro-Oncology Segmentation & Mixed Reality Surgical Spatial Viewer
 
 ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)![Unity Engine](https://img.shields.io/badge/Unity-6.0%20\(6000.0\)-black.svg)![XR Foundation](https://img.shields.io/badge/XR-Foundation%20%2F%20OpenXR-brightgreen.svg)![Medical Precision](https://img.shields.io/badge/Calibration-Sub--Millimeter%20Affine-critical.svg)An end-to-end biomedical engineering pipeline bridging **Deep Learning Semantic Segmentation of Multi-Sequence MRI** with a **Metric-Locked Extended Reality (XR) Holographic Viewer** for preoperative surgical planning.
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Project Overview & Clinical Objective
+## 🎯 Project Overview & Clinical Objective
 
 Translating standard multi-slice 2D MRI scans into actionable 3D spatial awareness remains a significant hurdle in neuro-oncology. This framework solves this limitation across two primary engineering stages:
 
@@ -50,7 +50,7 @@ Translating standard multi-slice 2D MRI scans into actionable 3D spatial awarene
 
 ---
 
-##  Mathematical Rigor & Technical Formulation
+## 📐 Mathematical Rigor & Technical Formulation
 
 ### 1. Hybrid Objective Optimization (Class-Imbalanced Segmentation)
 
@@ -140,5 +140,4 @@ python reconstruct.py
 4. Press **Play**:
    - **Right-Click Drag:** Orbit the anatomical volume with smoothed Quaternion damping.
    - **Mouse Scroll:** Optical zoom without near-plane mesh clipping.
-   - **UI Overlay:** Toggle cerebral mantle visibility to expose internal lesion anatomy
-
+   - **UI Overlay:** Toggle cerebral mantle visibility to expose internal lesion anatomy.
