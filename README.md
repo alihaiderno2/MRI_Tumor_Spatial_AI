@@ -4,11 +4,10 @@
 
 ---
 
-## 🔬 Showcase: Dual-Domain Research Output
-
+## Showcase
 | Computer Vision Segmentation Pipeline | Mixed Reality Spatial Interaction Engine |
-| --- | --- |
-|  |  |
+| :---: | :---: |
+| ![Segmentation Overlay](docs/figures/segmentation_overlay_grid.png) | ![Unity Spatial View](docs/figures/unity_spatial_calibration.png) |
 | *Deep U-Net lesion boundary isolation evaluated against ground-truth FLAIR annotations* | *Sub-millimeter co-registered holographic twin in Unity 6 XR workspace* |
 
 ---
